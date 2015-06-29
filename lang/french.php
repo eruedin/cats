@@ -172,7 +172,7 @@ define("Statistic_21","date");
 define("Statistic_22","tests terminés");
 define("Statistic_23","tests réussis");
 define("Statistic_24","français"); /* ligne rajouté numérotation décaler a corrigé lors de l'intégration Line numbering added offset corrected during the integration */
-define("Title_01","sujet CATS");
+define("Title_01","sujets CATS");
 define("Title_02","CATS collecte les questions");
 define("Title_03","statistiques CATS");
 define("Title_04","démarrer le test CATS");
