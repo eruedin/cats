@@ -36,7 +36,7 @@ define("Button_19","Statistiques du test");
 define("Check_Cert_01","Votre nom doit être inclus dans le certificat si vous souhaitez obtenir une attestation par courrier postal ou par courrier électronique.<br />Vous pouvez continuer l'enregistrement, mais vous ne pouvez pas choisir les options <i>par courrier postal </i> ou <i>par courrier électronique.</i>.<br /> Vous pouvez également annuler cette inscription et vous enregistrer avec un autre certificat, dans lequel votre nom est inclus pour obtenir une attestation par courrier postal.");
 define("certificateDocu_01","Si vous le souhaitez, nous pouvons vous fournir un document attestant que vous avez réussi le test d'accréditeur. Le document sera émis à votre nom comme indiqué dans votre certifcat numérique.");
 define("certificateDocu_02","Non, je ne souhaite pas ce document.");
-define("certificateDocu_03","Oui, envoyez-moi s'il vous plait le document en pièce-jointe au format pdf par courriel. Nous utiliserons l'adresse électronique fournie dans le certificat.");
+define("certificateDocu_03","Oui, envoyez-moi s'il vous plaît le document en pièce-jointe au format pdf par courriel. Nous utiliserons l'adresse électronique fournie dans le certificat.");
 define("certificateDocu_05","prénom");
 define("certificateDocu_06","nom");
 define("certificateDocu_07","rue");
